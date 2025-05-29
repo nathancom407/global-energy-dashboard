@@ -141,6 +141,7 @@ This project is open source and built entirely on public data. All credit for ra
 
 ---
 
-## Connect
+## Contact
 
-If you find this dashboard useful or want to collaborate on data visualization or analytics projects, feel free to reach out via GitHub or LinkedIn.
+Built by Nathan Comstock (https://github.com/nathancom407)  
+Email: nathanc.personal@gmail.com
