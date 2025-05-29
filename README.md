@@ -4,7 +4,7 @@ An interactive, multi-page dashboard application built with **Plotly Dash**, thi
 
 ---
 
-## Skills Demonstrated
+## Tools and Skills Used
 
 - **Plotly Dash:** Multi-tab layout, callbacks, dynamic interactivity  
 - **Python EDA:** Cleaning, filtering, reshaping (`melt`, `fillna`, `dropna`)  
